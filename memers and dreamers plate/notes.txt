@@ -1,0 +1,20 @@
+x: [-7.69, 300.51]
+y: [32.955, 171.955]
+
+side legnth of square in plate = 270.64375 - 284.64375 = 14mm
+
+distance from rctrl to right and bottom edges in pcb (repectively) = 5.21mm 2.54mm
+
+x coord of rctrl right edge = 300.99-5.21 = 295.78
+y coord of rctrl bottom edge = 172.085-2.54 = 169.545
+
+screw holes:
+19.5 36.5
+280.5 36.5
+148.25	95.25 (on plate)
+42 124 (on plate)
+261 116 (on plate)
+-4 168.5
+297 152 (on plate)
+
++5.51 171.955-164.0625
