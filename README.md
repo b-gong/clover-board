@@ -1,5 +1,5 @@
 # clover-board
-Important: This is more of a proof of concept for me and needs a lot of improvement so if someone somehow finds, this don't actually make it, it's bad
+Important: This is more of a proof of concept for me and needs a lot of improvement so if someone somehow finds this, don't actually make it, it's bad
 
 ![FreeCAD Screenshot of clover_board made with KiCadStepUp Addon](https://github.com/b-gong/clover-board/blob/main/clover_board.png?raw=true)
 
