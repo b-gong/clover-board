@@ -1,5 +1,11 @@
 # clover-board
-Important: This is more of a proof of concept for me and needs a lot of improvement so if someone somehow finds this, don't actually make it, it's bad
+Important: This is more of a proof of concept for me and needs a lot of improvement.
+- No hotswap; and hotswap sockets don't work because the plate is misaligned by fractions of a mm
+- Not a big fan of the layout anymore, too big
+
+![Picture of manufactured board](https://github.com/b-gong/clover-board/blob/main/clover_board.png?raw=true)
+
+![Picture of OLED screen](https://github.com/b-gong/clover-board/blob/main/clover_board_screen.JPG?raw=true)
 
 ![FreeCAD Screenshot of clover_board made with KiCadStepUp Addon](https://github.com/b-gong/clover-board/blob/main/clover_board.png?raw=true)
 
