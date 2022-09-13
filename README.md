@@ -7,7 +7,7 @@ Important: This is more of a proof of concept for me and needs a lot of improvem
 
 ![Picture of OLED screen](https://github.com/b-gong/clover-board/blob/main/clover_board_screen.JPG?raw=true)
 
-![FreeCAD Screenshot of clover_board made with KiCadStepUp Addon](https://github.com/b-gong/clover-board/blob/main/clover_board.png?raw=true)
+![FreeCAD Screenshot of clover_board made with KiCadStepUp Addon](https://github.com/b-gong/clover-board/blob/main/clover_board_render.png?raw=true)
 
 ### 60% + Function Keys with OLED screen and rotary encoder
 Who needs the rest of the keyboard xd
