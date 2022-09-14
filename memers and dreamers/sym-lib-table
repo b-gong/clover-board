@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name keebio)(type Legacy)(uri "C:/Users/Brandon Gong/Documents/KiCad/symbols and footprints etc/keebio-components-master/keebio-components-master/keebio.lib")(options "")(descr ""))
-  (lib (name Custom)(type Legacy)(uri ${KIPRJMOD}/Custom.lib)(options "")(descr ""))
-  (lib (name teensy)(type Legacy)(uri "C:/Users/Brandon Gong/Documents/KiCad/symbols and footprints etc/teensy_library-master/teensy_library-master/teensy.lib")(options "")(descr ""))
-)

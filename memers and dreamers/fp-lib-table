@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name Keebio-Parts)(type KiCad)(uri "C:/Users/Brandon Gong/Documents/KiCad/symbols and footprints etc/Keebio-Parts.pretty-master/Keebio-Parts.pretty-master")(options "")(descr ""))
-  (lib (name teensy)(type KiCad)(uri "C:/Users/Brandon Gong/Documents/KiCad/symbols and footprints etc/teensy.pretty-master/teensy.pretty-master")(options "")(descr ""))
-  (lib (name Custom)(type KiCad)(uri ${KIPRJMOD}/Custom.pretty)(options "")(descr ""))
-  (lib (name MX_Only)(type KiCad)(uri "C:/Users/Brandon Gong/Documents/KiCad/symbols and footprints etc/MX_Alps_Hybrid-master/MX_Alps_Hybrid-master/MX_Only.pretty")(options "")(descr ""))
-)
